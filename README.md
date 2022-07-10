@@ -1,0 +1,2 @@
+# constant-in-cpp
+concept
